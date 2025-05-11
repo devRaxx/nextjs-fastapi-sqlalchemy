@@ -1,0 +1,41 @@
+# Node.js dependencies
+/node_modules
+/.next
+/out
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Database files
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
